@@ -1,0 +1,46 @@
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+
+body {
+    width: auto;
+}
+
+
+#contact_info_wrapper {
+    height: auto;
+    border: 3px solid blue;
+    text-align: left; /*555*/
+    margin: 100px;
+    margin: 10px;
+
+}
+
+.photo img {
+    position: relative; /*555*/
+    margin: 10px;
+    height: 200px;
+}
+
+.photo {
+    border: 3px solid yellow;
+}
+
+
+.contact_info {
+    border: 3px solid green;
+    text-align: left;
+}
+
+
+.photo,
+.contact_info {
+    display: inline-block;
+    margin: auto;
+}
+
+.core_skills {
+    border: 3px solid red;
+}
